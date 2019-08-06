@@ -1,0 +1,11 @@
+C:\Users\prog\source\repos\GetAddDelete\GetAddDelete\bin\Debug\netcoreapp2.1\GetAddDelete.deps.json
+C:\Users\prog\source\repos\GetAddDelete\GetAddDelete\bin\Debug\netcoreapp2.1\GetAddDelete.runtimeconfig.json
+C:\Users\prog\source\repos\GetAddDelete\GetAddDelete\bin\Debug\netcoreapp2.1\GetAddDelete.runtimeconfig.dev.json
+C:\Users\prog\source\repos\GetAddDelete\GetAddDelete\bin\Debug\netcoreapp2.1\GetAddDelete.dll
+C:\Users\prog\source\repos\GetAddDelete\GetAddDelete\bin\Debug\netcoreapp2.1\GetAddDelete.pdb
+C:\Users\prog\source\repos\GetAddDelete\GetAddDelete\obj\Debug\netcoreapp2.1\GetAddDelete.csprojAssemblyReference.cache
+C:\Users\prog\source\repos\GetAddDelete\GetAddDelete\obj\Debug\netcoreapp2.1\GetAddDelete.csproj.CoreCompileInputs.cache
+C:\Users\prog\source\repos\GetAddDelete\GetAddDelete\obj\Debug\netcoreapp2.1\GetAddDelete.AssemblyInfoInputs.cache
+C:\Users\prog\source\repos\GetAddDelete\GetAddDelete\obj\Debug\netcoreapp2.1\GetAddDelete.AssemblyInfo.cs
+C:\Users\prog\source\repos\GetAddDelete\GetAddDelete\obj\Debug\netcoreapp2.1\GetAddDelete.dll
+C:\Users\prog\source\repos\GetAddDelete\GetAddDelete\obj\Debug\netcoreapp2.1\GetAddDelete.pdb
