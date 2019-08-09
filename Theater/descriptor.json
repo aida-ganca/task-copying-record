@@ -1,0 +1,20 @@
+﻿{
+  "Descriptor": {
+    "UId": "2c48981b-5c9c-45ec-b722-f5a6d37b69b2",
+    "Name": "Theater",
+    "ModifiedOnUtc": "\/Date(1565295075000)\/",
+    "Maintainer": "aida",
+    "DependsOn": [
+      {
+        "UId": "0ece3a34-413f-415b-919b-7b29bb31701f",
+        "PackageVersion": "7.8.0",
+        "Name": "SalesEnterpriseSoftkey_Obsolete"
+      },
+      {
+        "UId": "d7559847-f38e-410c-baee-6f43bbe80d42",
+        "PackageVersion": "7.8.0",
+        "Name": "SalesEnterpriseSoftkey_ENU"
+      }
+    ]
+  }
+}

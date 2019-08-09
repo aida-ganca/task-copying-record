@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "9a02005e-2385-44c0-8239-f93d4c407d94",
+    "Name": "UsrGigProgram1Page",
+    "ModifiedOnUtc": "\/Date(1565358362000)\/",
+    "Parent": {
+      "UId": "d62293c0-7f14-44b1-b547-735fb40499cd",
+      "Name": "BaseModulePageV2"
+    },
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "Страница редактирования: \"Концертные программы\"",
+    "DependsOn": []
+  }
+}

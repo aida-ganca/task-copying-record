@@ -1,0 +1,357 @@
+﻿{
+  "Descriptor": {
+    "UId": "77fadf48-7700-4eda-ae8b-9f50240db067",
+    "Name": "Contact1",
+    "ModifiedOnUtc": "\/Date(1565363410000)\/",
+    "InstallType": 0,
+    "Schema": {
+      "UId": "16be3651-8fe2-4159-8dd0-a803d4683dd3",
+      "Name": "Contact"
+    },
+    "Columns": [
+      {
+        "ColumnUId": "d1732e56-de5f-4bf6-ac22-228d7f768aa3",
+        "IsForceUpdate": false,
+        "IsKey": false,
+        "ColumnName": "TwitterAFDA",
+        "DataTypeValueUId": "b295071f-7ea9-4e62-8d1a-919bf3732ff2"
+      },
+      {
+        "ColumnUId": "cf58ca72-531b-4dd2-b4d5-f0d5b7c556f6",
+        "IsForceUpdate": false,
+        "IsKey": false,
+        "ColumnName": "City",
+        "DataTypeValueUId": "b295071f-7ea9-4e62-8d1a-919bf3732ff2"
+      },
+      {
+        "ColumnUId": "a6bcf6fe-a06d-42ed-a263-f829ece05fd9",
+        "IsForceUpdate": false,
+        "IsKey": false,
+        "ColumnName": "DoNotUseCall",
+        "DataTypeValueUId": "90b65bf8-0ffc-4141-8779-2420877af907"
+      },
+      {
+        "ColumnUId": "a5cca792-47dd-428a-83fb-5c92bdd97ff8",
+        "IsForceUpdate": false,
+        "IsKey": false,
+        "ColumnName": "Name",
+        "DataTypeValueUId": "ddb3a1ee-07e8-4d62-b7a9-d0e618b00fbd"
+      },
+      {
+        "ColumnUId": "3f08db69-6d2f-4b1c-87a4-acddc6c3b9d6",
+        "IsForceUpdate": false,
+        "IsKey": false,
+        "ColumnName": "BirthDate",
+        "DataTypeValueUId": "603d4960-a1a2-45e9-b232-206a54421b01"
+      },
+      {
+        "ColumnUId": "9463dea9-2576-4d37-812f-342ee57ddf32",
+        "IsForceUpdate": false,
+        "IsKey": false,
+        "ColumnName": "Country",
+        "DataTypeValueUId": "b295071f-7ea9-4e62-8d1a-919bf3732ff2"
+      },
+      {
+        "ColumnUId": "5c6ca10e-1180-4c1e-8a50-55a72ff9bdd4",
+        "IsForceUpdate": false,
+        "IsKey": false,
+        "ColumnName": "Account",
+        "DataTypeValueUId": "b295071f-7ea9-4e62-8d1a-919bf3732ff2"
+      },
+      {
+        "ColumnUId": "a855b7ae-45be-4d73-9074-9d84e4ae66c4",
+        "IsForceUpdate": false,
+        "IsKey": false,
+        "ColumnName": "Language",
+        "DataTypeValueUId": "b295071f-7ea9-4e62-8d1a-919bf3732ff2"
+      },
+      {
+        "ColumnUId": "0737d99d-eebc-4b8e-9859-634414f7cc04",
+        "IsForceUpdate": false,
+        "IsKey": false,
+        "ColumnName": "Zip",
+        "DataTypeValueUId": "325a73b8-0f47-44a0-8412-7606f78003ac"
+      },
+      {
+        "ColumnUId": "771a60e2-020c-4dd2-8512-b428b8a47dba",
+        "IsForceUpdate": false,
+        "IsKey": false,
+        "ColumnName": "Surname",
+        "DataTypeValueUId": "ddb3a1ee-07e8-4d62-b7a9-d0e618b00fbd"
+      },
+      {
+        "ColumnUId": "1b1d8f33-4d26-4353-a1ed-07e11fc82112",
+        "IsForceUpdate": false,
+        "IsKey": false,
+        "ColumnName": "DoNotUseEmail",
+        "DataTypeValueUId": "90b65bf8-0ffc-4141-8779-2420877af907"
+      },
+      {
+        "ColumnUId": "10ebe04c-3e1e-4606-93a5-dbdfdb230e71",
+        "IsForceUpdate": false,
+        "IsKey": false,
+        "ColumnName": "LinkedInId",
+        "DataTypeValueUId": "ddb3a1ee-07e8-4d62-b7a9-d0e618b00fbd"
+      },
+      {
+        "ColumnUId": "83239d8b-efb5-4a28-80b7-219bdbd2a752",
+        "IsForceUpdate": false,
+        "IsKey": false,
+        "ColumnName": "Twitter",
+        "DataTypeValueUId": "ddb3a1ee-07e8-4d62-b7a9-d0e618b00fbd"
+      },
+      {
+        "ColumnUId": "dbf202ec-c444-479b-bcf4-d8e5b1863201",
+        "IsForceUpdate": false,
+        "IsKey": false,
+        "ColumnName": "Email",
+        "DataTypeValueUId": "ddb3a1ee-07e8-4d62-b7a9-d0e618b00fbd"
+      },
+      {
+        "ColumnUId": "b9021fa0-6606-4027-8335-bf0624b58218",
+        "IsForceUpdate": false,
+        "IsKey": false,
+        "ColumnName": "GPSE",
+        "DataTypeValueUId": "325a73b8-0f47-44a0-8412-7606f78003ac"
+      },
+      {
+        "ColumnUId": "344436e4-9d6b-4a30-936f-f8ea45f2adb4",
+        "IsForceUpdate": false,
+        "IsKey": false,
+        "ColumnName": "Job",
+        "DataTypeValueUId": "b295071f-7ea9-4e62-8d1a-919bf3732ff2"
+      },
+      {
+        "ColumnUId": "f16cbd03-a8a8-4bdd-9970-a0c7985a1996",
+        "IsForceUpdate": false,
+        "IsKey": false,
+        "ColumnName": "SalutationType",
+        "DataTypeValueUId": "b295071f-7ea9-4e62-8d1a-919bf3732ff2"
+      },
+      {
+        "ColumnUId": "84c5808a-7859-4198-ba6a-243c95a3300b",
+        "IsForceUpdate": false,
+        "IsKey": false,
+        "ColumnName": "Phone",
+        "DataTypeValueUId": "ddb3a1ee-07e8-4d62-b7a9-d0e618b00fbd"
+      },
+      {
+        "ColumnUId": "f70c762a-1038-49a7-a3e8-f24fb8cfdeef",
+        "IsForceUpdate": false,
+        "IsKey": false,
+        "ColumnName": "DecisionRole",
+        "DataTypeValueUId": "b295071f-7ea9-4e62-8d1a-919bf3732ff2"
+      },
+      {
+        "ColumnUId": "5ad029c6-0fa7-4db6-8fef-c72a0f535682",
+        "IsForceUpdate": false,
+        "IsKey": false,
+        "ColumnName": "AddressType",
+        "DataTypeValueUId": "b295071f-7ea9-4e62-8d1a-919bf3732ff2"
+      },
+      {
+        "ColumnUId": "5282096d-e4af-470a-bfbc-3e3542f04515",
+        "IsForceUpdate": false,
+        "IsKey": false,
+        "ColumnName": "Facebook",
+        "DataTypeValueUId": "ddb3a1ee-07e8-4d62-b7a9-d0e618b00fbd"
+      },
+      {
+        "ColumnUId": "98e085c7-ad4d-4ac6-8c1c-09be09876d44",
+        "IsForceUpdate": false,
+        "IsKey": false,
+        "ColumnName": "MobilePhone",
+        "DataTypeValueUId": "ddb3a1ee-07e8-4d62-b7a9-d0e618b00fbd"
+      },
+      {
+        "ColumnUId": "0fb61bc8-a195-4d90-aecc-18b411b51814",
+        "IsForceUpdate": false,
+        "IsKey": false,
+        "ColumnName": "Address",
+        "DataTypeValueUId": "c0f04627-4620-4bc0-84e5-9419dc8516b1"
+      },
+      {
+        "ColumnUId": "a49571cc-a9a9-4c3e-a346-46c466e9a0d3",
+        "IsForceUpdate": false,
+        "IsKey": false,
+        "ColumnName": "Type",
+        "DataTypeValueUId": "b295071f-7ea9-4e62-8d1a-919bf3732ff2"
+      },
+      {
+        "ColumnUId": "327e44bd-0b97-48c0-b11a-4686d6605b4f",
+        "IsForceUpdate": false,
+        "IsKey": false,
+        "ColumnName": "ContactPhoto",
+        "DataTypeValueUId": "b7342b7a-5dde-40de-aa7c-24d2a57b3202"
+      },
+      {
+        "ColumnUId": "c5d7c4d3-f308-40d3-8469-6ab6882bd70a",
+        "IsForceUpdate": false,
+        "IsKey": false,
+        "ColumnName": "Dear",
+        "DataTypeValueUId": "ddb3a1ee-07e8-4d62-b7a9-d0e618b00fbd"
+      },
+      {
+        "ColumnUId": "64fa90dd-0cf5-45d7-88e4-6fa691d3c425",
+        "IsForceUpdate": false,
+        "IsKey": false,
+        "ColumnName": "Owner",
+        "DataTypeValueUId": "b295071f-7ea9-4e62-8d1a-919bf3732ff2"
+      },
+      {
+        "ColumnUId": "0e50f221-470e-482b-8580-f61c74b8b1c1",
+        "IsForceUpdate": false,
+        "IsKey": false,
+        "ColumnName": "Region",
+        "DataTypeValueUId": "b295071f-7ea9-4e62-8d1a-919bf3732ff2"
+      },
+      {
+        "ColumnUId": "644a4505-9c9c-477e-8037-b73c14d109df",
+        "IsForceUpdate": false,
+        "IsKey": false,
+        "ColumnName": "LinkedIn",
+        "DataTypeValueUId": "ddb3a1ee-07e8-4d62-b7a9-d0e618b00fbd"
+      },
+      {
+        "ColumnUId": "60367403-6019-4d03-971d-169a5ec27542",
+        "IsForceUpdate": false,
+        "IsKey": false,
+        "ColumnName": "Completeness",
+        "DataTypeValueUId": "6b6b74e2-820d-490e-a017-2b73d4ccf2b0"
+      },
+      {
+        "ColumnUId": "3ed551e5-7963-4056-95fb-6b6c871145af",
+        "IsForceUpdate": false,
+        "IsKey": false,
+        "ColumnName": "FacebookAFDA",
+        "DataTypeValueUId": "b295071f-7ea9-4e62-8d1a-919bf3732ff2"
+      },
+      {
+        "ColumnUId": "3a3317c0-09f6-4a26-998b-018d1caa2c36",
+        "IsForceUpdate": false,
+        "IsKey": false,
+        "ColumnName": "Gender",
+        "DataTypeValueUId": "b295071f-7ea9-4e62-8d1a-919bf3732ff2"
+      },
+      {
+        "ColumnUId": "ced280cc-7423-4175-9896-ea592a9e81a6",
+        "IsForceUpdate": false,
+        "IsKey": false,
+        "ColumnName": "Confirmed",
+        "DataTypeValueUId": "90b65bf8-0ffc-4141-8779-2420877af907"
+      },
+      {
+        "ColumnUId": "0a455b85-133c-4944-aff1-2ce7f7e50fee",
+        "IsForceUpdate": false,
+        "IsKey": false,
+        "ColumnName": "HomePhone",
+        "DataTypeValueUId": "ddb3a1ee-07e8-4d62-b7a9-d0e618b00fbd"
+      },
+      {
+        "ColumnUId": "94cb8750-ad6f-4e80-b553-7d9e194a856e",
+        "IsForceUpdate": false,
+        "IsKey": false,
+        "ColumnName": "Department",
+        "DataTypeValueUId": "b295071f-7ea9-4e62-8d1a-919bf3732ff2"
+      },
+      {
+        "ColumnUId": "fd73da4b-2b3d-483e-89d2-383a6db099ac",
+        "IsForceUpdate": false,
+        "IsKey": false,
+        "ColumnName": "Notes",
+        "DataTypeValueUId": "c0f04627-4620-4bc0-84e5-9419dc8516b1"
+      },
+      {
+        "ColumnUId": "0495373c-5053-4ae3-b553-dc92779c4702",
+        "IsForceUpdate": false,
+        "IsKey": false,
+        "ColumnName": "Photo",
+        "DataTypeValueUId": "b039feb0-ee7c-4884-8aa6-d6d45d84316f"
+      },
+      {
+        "ColumnUId": "33a879a3-d466-4b3f-b529-377a69ff0819",
+        "IsForceUpdate": false,
+        "IsKey": false,
+        "ColumnName": "MiddleName",
+        "DataTypeValueUId": "ddb3a1ee-07e8-4d62-b7a9-d0e618b00fbd"
+      },
+      {
+        "ColumnUId": "b3cf002a-466c-4ea7-a457-b3630ec24e9d",
+        "IsForceUpdate": false,
+        "IsKey": false,
+        "ColumnName": "LinkedInAFDA",
+        "DataTypeValueUId": "b295071f-7ea9-4e62-8d1a-919bf3732ff2"
+      },
+      {
+        "ColumnUId": "21a16860-9d95-4f60-9c23-66b3392ea5f4",
+        "IsForceUpdate": false,
+        "IsKey": false,
+        "ColumnName": "FacebookId",
+        "DataTypeValueUId": "ddb3a1ee-07e8-4d62-b7a9-d0e618b00fbd"
+      },
+      {
+        "ColumnUId": "238d9e74-ff12-4e40-8467-350bd9d4b58d",
+        "IsForceUpdate": false,
+        "IsKey": false,
+        "ColumnName": "DoNotUseMail",
+        "DataTypeValueUId": "90b65bf8-0ffc-4141-8779-2420877af907"
+      },
+      {
+        "ColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+        "IsForceUpdate": false,
+        "IsKey": true,
+        "ColumnName": "Id",
+        "DataTypeValueUId": "23018567-a13c-4320-8687-fd6f9e3699bd"
+      },
+      {
+        "ColumnUId": "cc26b1c5-4254-4287-9c15-0b5acd319811",
+        "IsForceUpdate": false,
+        "IsKey": false,
+        "ColumnName": "GivenName",
+        "DataTypeValueUId": "ddb3a1ee-07e8-4d62-b7a9-d0e618b00fbd"
+      },
+      {
+        "ColumnUId": "5ff9516e-251c-41de-a085-67fa199cdfe7",
+        "IsForceUpdate": false,
+        "IsKey": false,
+        "ColumnName": "Skype",
+        "DataTypeValueUId": "ddb3a1ee-07e8-4d62-b7a9-d0e618b00fbd"
+      },
+      {
+        "ColumnUId": "b903e71d-74cd-4b79-9dd9-d0c84ef6ad44",
+        "IsForceUpdate": false,
+        "IsKey": false,
+        "ColumnName": "GPSN",
+        "DataTypeValueUId": "325a73b8-0f47-44a0-8412-7606f78003ac"
+      },
+      {
+        "ColumnUId": "8b680ac7-e46c-466c-b630-e5cb4da13a55",
+        "IsForceUpdate": false,
+        "IsKey": false,
+        "ColumnName": "JobTitle",
+        "DataTypeValueUId": "ddb3a1ee-07e8-4d62-b7a9-d0e618b00fbd"
+      },
+      {
+        "ColumnUId": "7e295464-4dee-4448-832c-97434b1f2943",
+        "IsForceUpdate": false,
+        "IsKey": false,
+        "ColumnName": "DoNotUseSms",
+        "DataTypeValueUId": "90b65bf8-0ffc-4141-8779-2420877af907"
+      },
+      {
+        "ColumnUId": "d9deaed5-8e42-40c0-9bb1-a6bfe6716ca4",
+        "IsForceUpdate": false,
+        "IsKey": false,
+        "ColumnName": "DoNotUseFax",
+        "DataTypeValueUId": "90b65bf8-0ffc-4141-8779-2420877af907"
+      },
+      {
+        "ColumnUId": "2e96804c-cf03-4ab0-a532-79b032dc4529",
+        "IsForceUpdate": false,
+        "IsKey": false,
+        "ColumnName": "TwitterId",
+        "DataTypeValueUId": "ddb3a1ee-07e8-4d62-b7a9-d0e618b00fbd"
+      }
+    ]
+  }
+}

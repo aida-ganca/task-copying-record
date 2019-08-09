@@ -1,0 +1,84 @@
+﻿{
+  "Descriptor": {
+    "UId": "7c49036e-4ca4-4eb1-90a1-e78edd02a41c",
+    "Name": "UsrGigProgram",
+    "ModifiedOnUtc": "\/Date(1565363014000)\/",
+    "InstallType": 0,
+    "Schema": {
+      "UId": "f1a27901-2210-4ead-965c-9cd9eda0dda6",
+      "Name": "UsrGigProgram"
+    },
+    "Columns": [
+      {
+        "ColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+        "IsForceUpdate": false,
+        "IsKey": true,
+        "ColumnName": "Id",
+        "DataTypeValueUId": "23018567-a13c-4320-8687-fd6f9e3699bd"
+      },
+      {
+        "ColumnUId": "b8e2b6b8-af5b-4ab3-a718-c8182cc32298",
+        "IsForceUpdate": false,
+        "IsKey": false,
+        "ColumnName": "UsrName",
+        "DataTypeValueUId": "8b3f29bb-ea14-4ce5-a5c5-293a929b6ba2"
+      },
+      {
+        "ColumnUId": "a973ee9c-af54-42e7-87d7-20fcc7d91fdf",
+        "IsForceUpdate": false,
+        "IsKey": false,
+        "ColumnName": "UsrPersonInCharge",
+        "DataTypeValueUId": "8b3f29bb-ea14-4ce5-a5c5-293a929b6ba2"
+      },
+      {
+        "ColumnUId": "43ea2e0b-51ca-4728-84a4-638f25f9d9c2",
+        "IsForceUpdate": false,
+        "IsKey": false,
+        "ColumnName": "UsrCollective",
+        "DataTypeValueUId": "b295071f-7ea9-4e62-8d1a-919bf3732ff2"
+      },
+      {
+        "ColumnUId": "2e1aefb8-e348-42ba-bc04-443db66265c3",
+        "IsForceUpdate": false,
+        "IsKey": false,
+        "ColumnName": "UsrGigCode",
+        "DataTypeValueUId": "6b6b74e2-820d-490e-a017-2b73d4ccf2b0"
+      },
+      {
+        "ColumnUId": "661360cd-b5a3-4241-a396-5bb35b1aeb6d",
+        "IsForceUpdate": false,
+        "IsKey": false,
+        "ColumnName": "UsrActivism",
+        "DataTypeValueUId": "90b65bf8-0ffc-4141-8779-2420877af907"
+      },
+      {
+        "ColumnUId": "99a101f3-ca4a-493e-8c84-5d4c3d33dcaf",
+        "IsForceUpdate": false,
+        "IsKey": false,
+        "ColumnName": "UsrLkFrequency",
+        "DataTypeValueUId": "b295071f-7ea9-4e62-8d1a-919bf3732ff2"
+      },
+      {
+        "ColumnUId": "3d829610-793a-4363-9328-d91dec820247",
+        "IsForceUpdate": false,
+        "IsKey": false,
+        "ColumnName": "UsrOwner",
+        "DataTypeValueUId": "b295071f-7ea9-4e62-8d1a-919bf3732ff2"
+      },
+      {
+        "ColumnUId": "c73a16eb-1a88-4dc5-b246-5c38eeec0ad0",
+        "IsForceUpdate": false,
+        "IsKey": false,
+        "ColumnName": "UsrNotes",
+        "DataTypeValueUId": "c0f04627-4620-4bc0-84e5-9419dc8516b1"
+      },
+      {
+        "ColumnUId": "39368c77-5ec8-4fb3-b5f3-846f8680ea4c",
+        "IsForceUpdate": false,
+        "IsKey": false,
+        "ColumnName": "UsrCommentString",
+        "DataTypeValueUId": "8b3f29bb-ea14-4ce5-a5c5-293a929b6ba2"
+      }
+    ]
+  }
+}

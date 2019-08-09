@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "8c3f5567-d55c-4ce4-85c2-a4429b9164b0",
+    "Name": "UsrGigProgramInFolder",
+    "ModifiedOnUtc": "\/Date(1565296748000)\/",
+    "Parent": {
+      "UId": "4f63bafb-e9e7-4082-b92e-66b97c14017c",
+      "Name": "BaseItemInFolder"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Концертные программы в группе",
+    "DependsOn": []
+  }
+}

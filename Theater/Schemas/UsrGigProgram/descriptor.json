@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "f1a27901-2210-4ead-965c-9cd9eda0dda6",
+    "Name": "UsrGigProgram",
+    "ModifiedOnUtc": "\/Date(1565301961000)\/",
+    "Parent": {
+      "UId": "1bab9dcf-17d5-49f8-9536-8e0064f1dce0",
+      "Name": "BaseEntity"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Концертные программы",
+    "DependsOn": []
+  }
+}

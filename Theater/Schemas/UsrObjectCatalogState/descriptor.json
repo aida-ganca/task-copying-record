@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "15b84acc-2d3d-4ab1-a3ca-3eb6e5a2e571",
+    "Name": "UsrObjectCatalogState",
+    "ModifiedOnUtc": "\/Date(1565312081000)\/",
+    "Parent": {
+      "UId": "11ab4bcb-9b23-4b6d-9c86-520fae925d75",
+      "Name": "BaseLookup"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Объект справочника состояний выступления",
+    "DependsOn": []
+  }
+}

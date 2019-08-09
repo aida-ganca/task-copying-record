@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "27be8ca9-f53b-47f4-be21-8336f06b13fe",
+    "Name": "UsrCatalogFrequencyPublication",
+    "ModifiedOnUtc": "\/Date(1565296738000)\/",
+    "Parent": {
+      "UId": "11ab4bcb-9b23-4b6d-9c86-520fae925d75",
+      "Name": "BaseLookup"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Периодичность изданий",
+    "DependsOn": []
+  }
+}

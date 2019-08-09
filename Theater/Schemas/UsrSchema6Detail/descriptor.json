@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "0b8ebc5e-5bdb-45dd-93ec-8ce8a877020f",
+    "Name": "UsrSchema6Detail",
+    "ModifiedOnUtc": "\/Date(1565347231000)\/",
+    "Parent": {
+      "UId": "01eb38ee-668a-42f0-999d-c2534f979089",
+      "Name": "BaseGridDetailV2"
+    },
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "Схема детали: \"Выступления\"",
+    "DependsOn": []
+  }
+}

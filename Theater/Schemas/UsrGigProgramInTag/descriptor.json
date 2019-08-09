@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "e622594c-c56b-49b6-bf55-251a655e0707",
+    "Name": "UsrGigProgramInTag",
+    "ModifiedOnUtc": "\/Date(1565296753000)\/",
+    "Parent": {
+      "UId": "5894a2b0-51d5-419a-82bb-238674634270",
+      "Name": "BaseEntityInTag"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Тег в записи раздела Концертные программы",
+    "DependsOn": []
+  }
+}

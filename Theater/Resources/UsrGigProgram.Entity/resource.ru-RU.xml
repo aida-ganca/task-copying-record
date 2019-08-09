@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="ru-RU">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Концертные программы" />
+			<Item Name="Columns.UsrActivism.Caption" Value="Активна" />
+			<Item Name="Columns.UsrCollective.Caption" Value="Коллектив" />
+			<Item Name="Columns.UsrCommentString.Caption" Value="Комментарий" />
+			<Item Name="Columns.UsrGigCode.Caption" Value="Код" />
+			<Item Name="Columns.UsrLkFrequency.Caption" Value="Периодичность" />
+			<Item Name="Columns.UsrName.Caption" Value="Название" />
+			<Item Name="Columns.UsrNotes.Caption" Value="Заметки" />
+			<Item Name="Columns.UsrOwner.Caption" Value="Ответственный" />
+			<Item Name="Columns.UsrPersonInCharge.Caption" Value="Ответственный" />
+		</Items>
+	</Group>
+</Resources>
